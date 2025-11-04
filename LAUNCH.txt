@@ -1,0 +1,83 @@
+╔══════════════════════════════════════════════════════════╗
+║           🛡️ SERION AI WEBSITE - LAUNCH GUIDE           ║
+╚══════════════════════════════════════════════════════════╝
+
+📁 Location: /home/kali/Documents/serion-website/
+
+🚀 QUICK LAUNCH OPTIONS:
+
+1. LOCAL BROWSER
+   Double-click: index.html
+   Or run: xdg-open index.html
+
+2. PYTHON HTTP SERVER
+   cd /home/kali/Documents/serion-website
+   python3 -m http.server 8000
+   Then visit: http://localhost:8000
+
+3. PHP SERVER
+   cd /home/kali/Documents/serion-website
+   php -S localhost:8000
+   Then visit: http://localhost:8000
+
+═══════════════════════════════════════════════════════════
+
+✨ WEBSITE FEATURES:
+
+🎨 Design
+  • Dark cyberpunk theme (black/navy + neon cyan/magenta)
+  • Orbitron + Poppins fonts
+  • Responsive: Desktop, Tablet, Mobile
+
+⚡ Sections
+  1. HERO - Animated logo with glitch effect
+  2. ABOUT - 4 feature cards with neon glow
+  3. VISION - Orbital graphics + statistics
+  4. TEAM - 3D hover effect cards
+  5. FOOTER - Professional branding
+
+🎭 Animations
+  • Typing animation on hero
+  • Glitch effect on title  
+  • Neon glow on hover
+  • 3D card tilt effects
+  • Smooth scroll
+  • Parallax background
+  • Stats counter animation
+
+═══════════════════════════════════════════════════════════
+
+📂 FILES INCLUDED:
+
+  index.html    (12K)  - Main HTML structure
+  styles.css    (15K)  - Complete cyberpunk styling
+  script.js     (7.5K) - Interactive animations
+  README.md     (5.7K) - Documentation
+  assets/              - Images folder (ready for logos)
+
+  Total: 1,307 lines of professional code
+
+═══════════════════════════════════════════════════════════
+
+🌐 DEPLOYMENT OPTIONS:
+
+GitHub Pages  : Push to repo, enable Pages in settings
+Netlify       : Drag & drop serion-website folder
+Vercel        : Connect via Git or upload
+AWS S3        : Upload as static website
+Cloudflare    : Pages or Workers
+
+═══════════════════════════════════════════════════════════
+
+🎯 CUSTOMIZATION:
+
+Colors      : Edit CSS variables in styles.css
+Content     : Update text in index.html
+Team Info   : Change names/roles in Team section
+Images      : Add logo to /assets folder
+Social      : Update social links in footer
+
+═══════════════════════════════════════════════════════════
+
+🛡️ SERION AI - Building the Future of Cyber Defense
+
